@@ -14,4 +14,4 @@ Fique a vontade para ajudar no projeto, caso queira criar alguma implementação
 
 
 ## License
-[MIT](Emerson Galdino)
+Emerson Galdino
