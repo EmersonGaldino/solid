@@ -8,7 +8,7 @@ Utilizei as dependencias do Typescript, express, mailtrap.
 
 Execute um:
 
-#yarn add
+yarn install
 
 ## RUN
 
