@@ -7,7 +7,9 @@
     "start": "tsnd --transpile-only --respawn --ignore-watch node_modules src/server.ts"
   },
   "dependencies": {
+    "@types/nodemailer": "^6.4.0",
     "express": "^4.17.1",
+    "nodemailer": "^6.4.11",
     "uuidv4": "^6.2.1"
   },
   "devDependencies": {
